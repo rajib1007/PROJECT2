@@ -54,4 +54,13 @@ In this project we are working on a loan dataset, customer credit card dataset a
 
 ![image](https://user-images.githubusercontent.com/63140467/133890621-cfe026ce-a6a0-458f-a03a-77ae7304314f.png)
 
+# GETTING STARTED
 
+
+# CONTRIBUTERS
+
+* SIDHANT SEHGAL
+* ABHILASH REDDY
+* AKHIL
+* ANAND KUMAR
+* VENKATESH VENKAT
