@@ -50,3 +50,8 @@ In this project we are working on a loan dataset, customer credit card dataset a
 * Number of transaction on each date.
 * List of customers with withdrawal amount more than 1 lakh
 
+# TABLE CONFIGURATION
+
+![image](https://user-images.githubusercontent.com/63140467/133890621-cfe026ce-a6a0-458f-a03a-77ae7304314f.png)
+
+
