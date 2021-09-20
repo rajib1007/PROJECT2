@@ -14,7 +14,7 @@ In this project we are working on a loan dataset, customer credit card dataset a
 * DATABRICKS
 
 # FEATURES
-
+List of usecases performed on each datasets
 ### USE CASES FOR LOAN DATASET
 
 * The number of loans on each category
