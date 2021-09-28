@@ -15,7 +15,8 @@ https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93e
 * DATABRICKS
 
 # FEATURES
-List of usecases performed on each datasets
+* We can easily know the number of customer and their nature by performing this usecases.
+* List of usecases performed on each datasets
 ### USE CASES FOR LOAN DATASET
 
 * The number of loans on each category
