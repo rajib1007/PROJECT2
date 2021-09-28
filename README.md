@@ -55,7 +55,24 @@ List of usecases performed on each datasets
 ![image](https://user-images.githubusercontent.com/63140467/133890621-cfe026ce-a6a0-458f-a03a-77ae7304314f.png)
 
 # GETTING STARTED
+GitHub clone URL: https://github.com/rajib1007/PROJECT1.git
 
+Download VMware Workstation: https://drive.google.com/file/d/1v0dzEJK-cDD7nL7cX5mbJ4evl3s3u-Ib/view?usp=sharing
+Download UBUNTU iso file and create an image on VMware
+Follow this link to install JUPYTER NOTEBOOK on UBUNTU
+https://www.digitalocean.com/community/tutorials/how-to-set-up-jupyter-notebook-with-python-3-on-ubuntu-20-04-and-connect-via-ssh-tunneling
+
+##### Install required tools ans set path
+sudo apt-get install openjdk-8-jdk
+wget https://dlcdn.apache.org/spark/spark-3.1.2/spark-3.1.2-bin-hadoop3.2.tgz
+tar xvzf spark-3.1.2-bin-hadoop3.2.tgz
+wget https://archive.apache.org/dist/kafka/2.0.0/kafka_2.11-2.0.0.tgz
+tar xvzf kafka_2.11-2.0.0.tgz
+
+##### Install kafka on jupyter-
+pip install kafka-python
+
+##### Run usecases
 
 # CONTRIBUTERS
 
