@@ -1,5 +1,6 @@
 # ONLINE BANKING ANALYSIS
 In this project we are working on a loan dataset, customer credit card dataset and a bank transaction dataset by using Apache Spark, which is a data processing framework that can quickly perform processing tasks on very large data sets, and can also distribute data processing tasks across multiple computers, either on its own or in tandem with other distributed computing tools. Using these datasets and Spark SQL we have created various use cases pertaining to real life scenarios in banking.
+
 https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/553931998293758/1733511036908678/113857780564717/latest.html
 
 # TOOLS AND TECHNOLOGIES
