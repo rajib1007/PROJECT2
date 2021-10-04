@@ -52,9 +52,6 @@ https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93e
 * Number of transaction on each date.
 * List of customers with withdrawal amount more than 1 lakh
 
-# TABLE CONFIGURATION
-
-![image](https://user-images.githubusercontent.com/63140467/133890621-cfe026ce-a6a0-458f-a03a-77ae7304314f.png)
 
 # GETTING STARTED
 GitHub clone URL: https://github.com/rajib1007/PROJECT1.git
@@ -83,6 +80,14 @@ pip install kafka-python
 
 ##### Run usecases
 
+## Usage
+#### TABLE CONFIGURATION
+
+![image](https://user-images.githubusercontent.com/63140467/133890621-cfe026ce-a6a0-458f-a03a-77ae7304314f.png)
+#### Load dataset on jupyter and perform usecases
+![Screenshot (526)](https://user-images.githubusercontent.com/63140467/135840921-f45f41a6-3b37-40d5-8922-5e97bad21bde.png)
+
+
 # CONTRIBUTERS
 
 * SIDHANT SEHGAL
@@ -90,3 +95,7 @@ pip install kafka-python
 * AKHIL
 * ANAND KUMAR
 * VENKATESH VENKAT
+
+## License
+
+This project uses the following license: [MIT License](<https://github.com/rajib1007/Project_3/blob/main/LICENSE>).
