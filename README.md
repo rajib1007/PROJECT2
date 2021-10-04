@@ -14,7 +14,7 @@ https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93e
 * JUPYTER NOTEBOOK
 * DATABRICKS
 
-# FEATURES
+## FEATURES
 * We can easily know the number of customer and their nature by performing this usecases.
 * List of usecases performed on each datasets
 ### USE CASES FOR LOAN DATASET
@@ -53,17 +53,17 @@ https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93e
 * List of customers with withdrawal amount more than 1 lakh
 
 
-# GETTING STARTED
+## GETTING STARTED
 GitHub clone URL: https://github.com/rajib1007/PROJECT1.git
 
-Download VMware Workstation: https://drive.google.com/file/d/1v0dzEJK-cDD7nL7cX5mbJ4evl3s3u-Ib/view?usp=sharing
+#### STEP 1 :- Download VMware Workstation: https://drive.google.com/file/d/1v0dzEJK-cDD7nL7cX5mbJ4evl3s3u-Ib/view?usp=sharing
 
-##### Download UBUNTU iso file and create an image on VMware
+#### STEP 2 :- Download UBUNTU iso file and create an image on VMware
 https://ubuntu.com/download/desktop
-##### Follow this link to install JUPYTER NOTEBOOK on UBUNTU
+##### STEP 3 :- Follow this link to install JUPYTER NOTEBOOK on UBUNTU
 https://www.digitalocean.com/community/tutorials/how-to-set-up-jupyter-notebook-with-python-3-on-ubuntu-20-04-and-connect-via-ssh-tunneling
 
-##### Install required tools ans set path
+##### STEP 4 :- Install required tools ans set path
 
 sudo apt-get install openjdk-8-jdk
 
@@ -75,10 +75,8 @@ wget https://archive.apache.org/dist/kafka/2.0.0/kafka_2.11-2.0.0.tgz
 
 tar xvzf kafka_2.11-2.0.0.tgz
 
-##### Install kafka on jupyter-
+##### STEP 5 :- Install kafka on jupyter-
 pip install kafka-python
-
-##### Run usecases
 
 ## Usage
 #### TABLE CONFIGURATION
@@ -88,7 +86,7 @@ pip install kafka-python
 ![Screenshot (526)](https://user-images.githubusercontent.com/63140467/135840921-f45f41a6-3b37-40d5-8922-5e97bad21bde.png)
 
 
-# CONTRIBUTERS
+## CONTRIBUTERS
 
 * SIDHANT SEHGAL
 * ABHILASH REDDY
